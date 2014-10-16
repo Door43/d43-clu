@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[clu:home|Door43 (clu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-clu|d43-clu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-clu/archive/master.zip|d43-clu.zip]]
+
+**Recent Changes**
+{{changes>ns = clu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/clu|Ethnologue data]]
+
